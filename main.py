@@ -186,6 +186,7 @@ VALUES (
     return {"message": "Book added successfully"}
 
 print("cs")
+print("cs2")
 
 # @app.post('/books')
 # async def create_book(book: Book, db: AsyncSession = Depends(get_database)):
