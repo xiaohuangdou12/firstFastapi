@@ -187,6 +187,7 @@ VALUES (
 
 print("cs")
 print("cs2")
+print("cs3")
 
 # @app.post('/books')
 # async def create_book(book: Book, db: AsyncSession = Depends(get_database)):
