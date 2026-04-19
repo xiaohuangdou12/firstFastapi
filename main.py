@@ -185,6 +185,8 @@ VALUES (
     await db.commit()
     return {"message": "Book added successfully"}
 
+print("cs")
+
 # @app.post('/books')
 # async def create_book(book: Book, db: AsyncSession = Depends(get_database)):
 #     async with db as session:
