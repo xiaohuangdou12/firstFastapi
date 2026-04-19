@@ -186,7 +186,6 @@ VALUES (
     return {"message": "Book added successfully"}
 
 print("cs1")
-print("cs2")
 print("cs3")
 
 # @app.post('/books')
