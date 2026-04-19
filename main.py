@@ -185,9 +185,7 @@ VALUES (
     await db.commit()
     return {"message": "Book added successfully"}
 
-print("cs")
-print("cs2")
-print("cs3")
+print("cs1")
 
 
 # @app.post('/books')
